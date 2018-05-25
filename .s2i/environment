@@ -1,3 +1,2 @@
 APP_CONFIG=config
 APP_FILE=wsgi
-APP_MODULE=$(MODULE_NAME):$(app)
