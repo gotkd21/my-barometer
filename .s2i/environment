@@ -1,4 +1,4 @@
 APP_CONFIG=config
 APP_FILE=wsgi
-APP_MODULE=wsgi:app
+APP_MODULE=/opt/app-root/src/wsgi.py:app
 otheripaddress=somethingnew
